@@ -1,0 +1,9 @@
+device = "catalyst"
+if "catalyst in device:
+  print "its a catalyst"
+elif "nexus" in device:
+  print "its a nexus"
+elif "catos" in device
+  print "old catos. prepare to upgrade
+else:
+  print "non cisco"
