@@ -1,0 +1,8 @@
+1. Line 10 - change definition to definition
+2. Line 25 - '=' change to == to compare
+3. Line 27 - we need to add double quotes ""
+4. Line 30 - else needs a space and colon and remove the ':' after yes
+5. Line 36 - elif has to be moved before else: 
+6. Line 41 - imported has to change to import
+7. Line 52 - need to add a ':' at the end of elif statement
+8. Line 21 - had an error on setName and it was because of def was not indented properly
